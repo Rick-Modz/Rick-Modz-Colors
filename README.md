@@ -1,4 +1,4 @@
-# JSON list of 1302 colors
+# Lista JSON de 1302 cores
 
 Example:
 ```json
